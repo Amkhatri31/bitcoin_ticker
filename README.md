@@ -1,6 +1,8 @@
-# bitcoin_ticker
+# bitcoin_ticker🤑
 
-A new Flutter project.
+A new Flutter project which converts bitcoin value to different currencies.
+
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/bitcoin-flutter-demo.gif)
 
 ## Getting Started
 
